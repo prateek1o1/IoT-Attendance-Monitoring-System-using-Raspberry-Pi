@@ -1,4 +1,4 @@
-# AttendanceMonitoring
+# Attendance Monitoring System using QR codes
 
 Description: The candidate will be having an identity card with QR code. He/she need to put id
 card in front of webcam so that this picture can be processed by raspberry pi. If picture is taken
